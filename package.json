@@ -1,0 +1,26 @@
+{
+  "name": "day1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "xx.js",
+  "dependencies": {
+    "http-server": "^0.9.0",
+    "open": "0.0.5",
+    "shelljs": "^0.7.6"
+  },
+  "devDependencies": {},
+  "scripts": {
+  "start" : "node xx.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Roymishal/DAY1.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Roymishal/DAY1/issues"
+  },
+  "homepage": "https://github.com/Roymishal/DAY1#readme"
+}
